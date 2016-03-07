@@ -5,16 +5,18 @@
 This project is a general-purpose template for creating README pages for new projects.
 
 ## Introduction
-In order to maintain uniformity and help new users 
+A slightly more detailed, but still high level description of the repo
+* Include any links to diagrams that may be helful
 
-## Usage 
+## Usage (Quik getting started type of instructions)
 ### EMR Jar Usage
 ### Development Usage
-Brief description on how this is used 
-### Setting up for Deveopment
 * Check out the repo
-* ...
-* 
+* (Any setup that may be needed, config files like .artifactory for example?)
+* Dependencies
+* This project is on Codeship
+* Before submitting a PR...
+* ?
 
 ## Tests
 To run the tests
