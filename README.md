@@ -19,6 +19,15 @@ A slightly more detailed, but still high level description of the repo
 * Before submitting a PR...
 * ?
 
+### Auto Deployment
+This project supports auto deployment to staging. In this case "staging" means building a fat runnable jar and having it deployed to s3://hg-code/hadoop/snapshots/. In order to do an auto release you must do the following:
+* update the README.md with any pertinent information
+* update the CHANGELOG.md with release notes information for the version you are deploying to
+* update the version in build.gradle
+* git checkout -b release-#.#.#
+* git commit -am "meaningful version information message"
+* git push origin release-#.#.#
+
 ## Tests
 To run the tests
 * ./gradlew integrationTests
