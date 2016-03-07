@@ -8,7 +8,7 @@ This project is a general-purpose template for creating README pages for new pro
 A slightly more detailed, but still high level description of the repo
 * Include any links to diagrams that may be helful
 
-## Usage (Quik getting started type of instructions)
+## Usage (Quick getting started type of instructions)
 ### EMR Jar Usage
 ### Development Usage
 * Check out the repo
