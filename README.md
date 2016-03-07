@@ -20,8 +20,8 @@ A slightly more detailed, but still high level description of the repo
 
 ## Tests
 To run the tests
-./gradlew integrationTests
-./gradlew tests
+* ./gradlew integrationTests
+* ./gradlew tests
 
 ## Maintainers
 This repo is mantained by ___________
