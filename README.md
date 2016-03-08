@@ -12,18 +12,20 @@ The goals of our README's are:
 * Provide links to related projects like codeship
 * Make it easier for other developers or QA to know which tests are included and how to run them.
 
+## Motivation
+The goal of README templates is fascilitate onboarding new members to the team by reducing startup and tribal knowledge.
+
 ## Usage 
 Read through the list of README files provided and select the one closest to your project type.
 * Select the readme and use the [raw] view.
 * Open the README in your new project.
 * Fill in fields you use, delete the ones you don't
 
-
 ## Tests
 There are no tests for this repo
 
 ## Contributors
-* Main: Efrain Olivares
+* Efrain Olivares
 * David Gowans 
 
 ## Contributing
