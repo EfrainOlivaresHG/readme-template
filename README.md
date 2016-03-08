@@ -1,7 +1,7 @@
 # Project Name
-
 [ ![Codeship Status for HGData/emr-sentence-extractor](https://codeship.com/projects/08d480d0-598b-0133-cf13-4e8f80416610/status?branch=master)](https://codeship.com/projects/110081)
 
+## Synopsis
 Very short, couple of sentences on purpose of this tool/repo.
 
 ## Introduction
@@ -33,6 +33,10 @@ To run the tests
 * ./gradlew integrationTests
 * ./gradlew tests
 
-## Maintainers
-This repo is mantained by ___________
+## Contributors
+* Main: 
+* 
+
+## License
+If this is an internal private repo, we probably don't need any license information.  Otherwise we should have a default lincence type.
 
