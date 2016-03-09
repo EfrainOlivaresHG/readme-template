@@ -29,6 +29,14 @@ There are no tests for this sample page.
 ## Contributors
 * Efrain Olivares
 * David Gowans 
+#### External sources
+* [repat](https://github.com/repat/README-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [jxson](https://gist.github.com/jxson/1784669)
+* [changelog blog](https://changelog.com/a-beginners-guide-to-creating-a-readme/) Includes good points like linking to Markdown help.
+* [fvcproductions](http://fvcproductions.com/2015/08/20/readme-template-for-github/)
+* [stackoverflow](http://stackoverflow.com/questions/2304863/how-to-write-a-good-readme)
 
 ## Contributing
 * Fork the repo
