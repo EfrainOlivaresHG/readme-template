@@ -22,10 +22,12 @@ The goal of README templates is fascilitate onboarding new members to the team b
 * Any OS should work, tested on Mac
 
 ## Usage 
-* clone the repository
-* cd into the repository
-* bundle install
-* bundle exec rake
+```bash
+clone the repository
+cd into the repository
+bundle install
+bundle exec rake
+```
 
 ## Tests
 There are no tests for this sample page.
