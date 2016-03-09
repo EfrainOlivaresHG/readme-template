@@ -1,5 +1,6 @@
 # README Teamplates
-[Include badges here, codeship, travis...]
+* [Include badges here, codeship, travis...]
+* [Include links to projects on codeship or other online automation if it exists]
 
 ## Synopsis
 This is a collection of README templates to start off a repo for development or QA.
@@ -23,7 +24,7 @@ Read through the list of README files provided and select the one closest to you
 * Fill in fields you use, delete the ones you don't
 
 ## Tests
-There are no tests for this repo
+There are no tests for this sample page.
 
 ## Contributors
 * Efrain Olivares
