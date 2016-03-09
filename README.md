@@ -1,5 +1,5 @@
 # README Teamplates
-<Include badges here, codeship, travis...>
+[Include badges here, codeship, travis...]
 
 ## Synopsis
 This is a collection of README templates to start off a repo for development or QA.
